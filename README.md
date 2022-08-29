@@ -13,6 +13,7 @@ You can use this template for any application you need, not just Web!
 
 - https://betterprogramming.pub/the-ultimate-clean-architecture-template-for-typescript-projects-e53936269bb9
 - https://betterprogramming.pub/how-to-implement-a-typescript-web-app-with-clean-architecture-27c7eb745ab4#a8bb
+- https://betterprogramming.pub/awesome-website-monitoring-with-uptime-kuma-736dfebc1dd3
 - https://svelte.dev/repl/78777228cf404e08b7a5107196dd0501?version=3.49.0
 - https://samueleresca.net/solid-principles-using-typescript/
 
