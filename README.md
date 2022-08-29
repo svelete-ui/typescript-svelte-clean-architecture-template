@@ -4,6 +4,11 @@ A typescript project template using clean architecture.
 
 You can use this template for any application you need, not just Web!
 
+# todos
+
+[] Angular -> Svelte
+[] Build Counter example with svelte demo project
+
 # About
 
 ## Setting Up
